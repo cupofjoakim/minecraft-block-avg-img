@@ -1,0 +1,14 @@
+{
+  "name": "minecraft-block-avg-img",
+  "version": "1.0.0",
+  "description": "A little help script to get average colors from minecraft blocks. Could be used for other stuff as well, but i'm not going to update this ever.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joakim Wimmerstedt",
+  "license": "WTFPL",
+  "dependencies": {
+    "fast-average-color-node": "^1.0.3"
+  }
+}
